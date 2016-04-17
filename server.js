@@ -38,7 +38,7 @@ app.get('/classes', (req,res) => {
    res.send('classes are a thing now')
 });
 
-app.get('/', (req,res)=>{
+app.get('/classextensions', (req,res)=>{
 
     class Animal{
         constructor(legCount, sound){
@@ -52,8 +52,17 @@ app.get('/', (req,res)=>{
     }
 
     class Mammal extends Animal{
+        constructor(legCount,sound, flies){
+            super(legCount,sound);
+            this.flies = flies
+        }
+
+        getMammal(){
+            return `this animal has ${this.legCount} legs and makes sound ${super.getSound()}`
+        }
 
     }
+    console.log(new Mammal(4,'bark',true).getMammal())
 
     res.send('class extensions')
 })

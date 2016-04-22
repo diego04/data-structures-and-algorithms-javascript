@@ -14,4 +14,11 @@
 
     or BFS using:
     level order
+
+
+    look up B-tree its faster
+
+    bst is modifiable and in memory
  */
+
+

@@ -1,3 +1,16 @@
+#Algorithms
+[Awesome algorithm](https://github.com/lnishan/awesome-competitive-programming)
+[Algorithmic Resources](https://github.com/hkirat/Algorithmic-Resources)
+[Geekforgeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+[Ideserve](http://www.ideserve.co.in/)
+[Project Euler](https://projecteuler.net/archives)
+[Finding a solution](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
+[Topcoder Cook Book](http://apps.topcoder.com/forums/?module=Category&categoryID=4532)
+
+[Trading algorithms: quants, etc](https://www.quora.com/What-are-good-beginning-algorithmic-trading-tutorials)
+[Codeforce](http://codeforces.com/problemset)
+[Codechef](https://www.codechef.com/problems/hard/)
+
 #Refresher practice for es6 with node.js (express) using:
 
 look at supported harmony features by:

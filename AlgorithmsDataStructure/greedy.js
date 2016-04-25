@@ -5,6 +5,9 @@
  */
 
 /*
+
+ for graph look at graph.js
+
  Travelling Salesman Problem
  Prim's Minimal Spanning Tree Algorithm
  Kruskal's Minimal Spanning Tree Algorithm

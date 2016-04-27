@@ -72,8 +72,14 @@ var fibonacci = (n) => {
 var memo = []
 
 var dynamicfib = (n) => {
+
+    if (memo[n]) return memo[n]
+
     if(n < 2) return 1
     else{
+        memo[n] = dynamicfib(n-1)+dynamicfib(n-2)
+        return memo[n]
+        /*
         var val1
         var val2
         if(memo[n-1]) val1 = memo[n-1]
@@ -83,5 +89,6 @@ var dynamicfib = (n) => {
         else val2 = dynamicfib(n-2); memo[n-2]=val2
 
         return val1+val2
+        */
     }
 }

@@ -1,11 +1,14 @@
 #Algorithms
 [Awesome algorithm](https://github.com/lnishan/awesome-competitive-programming)
+[awesome competitive programming](https://github.com/lnishan/awesome-competitive-programming)
 [Algorithmic Resources](https://github.com/hkirat/Algorithmic-Resources)
+[Algorim zone](https://github.com/kennyledet/Algorithm-Implementations)
 [Geekforgeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 [Ideserve](http://www.ideserve.co.in/)
 [Project Euler](https://projecteuler.net/archives)
 [Finding a solution](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/)
 [Topcoder Cook Book](http://apps.topcoder.com/forums/?module=Category&categoryID=4532)
+[java](https://github.com/mission-peace/interview/wiki)
 
 [Trading algorithms: quants, etc](https://www.quora.com/What-are-good-beginning-algorithmic-trading-tutorials)
 [Codeforce](http://codeforces.com/problemset)

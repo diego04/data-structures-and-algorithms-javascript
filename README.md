@@ -1,4 +1,6 @@
 #Algorithms
+[MIT algorithms 6.006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+[MIT](http://ocw.mit.edu/courses/audio-video-courses/)
 [Awesome algorithm](https://github.com/lnishan/awesome-competitive-programming)
 [awesome competitive programming](https://github.com/lnishan/awesome-competitive-programming)
 [Algorithmic Resources](https://github.com/hkirat/Algorithmic-Resources)
@@ -13,6 +15,14 @@
 [Trading algorithms: quants, etc](https://www.quora.com/What-are-good-beginning-algorithmic-trading-tutorials)
 [Codeforce](http://codeforces.com/problemset)
 [Codechef](https://www.codechef.com/problems/hard/)
+
+#Preparing for an interview
+[Quora](https://www.quora.com/How-can-one-be-well-prepared-to-answer-data-structure-algorithm-questions-in-interviews)
+[Quora](https://www.quora.com/What-is-the-correct-strategy-for-studying-algorithms-and-preparing-for-coding-interviews-simultaneously)
+
+#Strategy
+
+Go to next page
 
 #Refresher practice for es6 with node.js (express) using:
 

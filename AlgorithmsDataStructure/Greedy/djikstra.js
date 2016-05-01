@@ -40,6 +40,10 @@ var djikstra = (graph,sourceId) =>{
 
     while (Q.length > 0){
 
+
+        /*
+         but actually use a heap not this thing below
+         */
         Q.sort(function(a,b){
             if(distance[a] > distance[b]){
                 return 1;

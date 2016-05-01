@@ -14,7 +14,7 @@
     our djikstra does not account for negative weights
 
     1. set distance to each node as infinity
-    2. set all nodes as unvisited and at to Q
+    2. set all nodes as unvisited and add to Q
     3. initialize a node with distance 0 and status as visited
     4. pop the node with smallest distance to dis[node]
     5. calculate distance between current node and its neighbours set
@@ -22,3 +22,46 @@
     7. pick shorter path
 
  */
+
+
+var djikstra = (graph,sourceId) =>{
+
+    var Q = []
+    var distance = []
+    var parent = []
+
+    for (var nodeId in graph){
+        distance[nodeId] = 'infinity'
+        parent[nodeId] = null
+    }
+
+    Q.push(sourceId)
+    distance[sourceId] = 0
+
+    while (Q.length > 0){
+
+        Q.sort(function(a,b){
+            if(distance[a] > distance[b]){
+                return 1;
+            }
+            if(distance[a] < distance[b]){
+                return -1;
+            }
+            if(distance[a] == distance[b]){
+                return 0;
+            }
+
+        })
+
+        var head = Q.shift()
+
+        for(var childId in graph[head]){
+            var distanceHolder = graph.length(head,childId)
+
+            if(distance[childId] > distanceHolder + distance[head] ){
+                distance[childId] = distanceHolder + distance[head]
+                parent[childId] = head
+            }
+        }
+    }
+}

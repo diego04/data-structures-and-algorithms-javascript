@@ -27,6 +27,10 @@ var bfs = (G,R) =>{
 }
 
 /*
+O(V+E)
+goes through each vertices
+goes through each edges
+
 BFS uses Queue, which is a FIFO
 to hold elements as it navigates
 through the graph

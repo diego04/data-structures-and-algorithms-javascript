@@ -1,6 +1,7 @@
 #Algorithms
 [MIT algorithms 6.006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 [MIT](http://ocw.mit.edu/courses/audio-video-courses/)
+[Cheat Sheet Tsiege](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
 [Awesome algorithm](https://github.com/lnishan/awesome-competitive-programming)
 [awesome competitive programming](https://github.com/lnishan/awesome-competitive-programming)
 [Algorithmic Resources](https://github.com/hkirat/Algorithmic-Resources)

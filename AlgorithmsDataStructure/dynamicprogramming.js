@@ -181,3 +181,22 @@ var bottomUpfib = (n) => {
 
  */
 
+
+/*
+
+    Text Justification
+    Given a width that is the max width for each line
+    An array of words
+    Fit them into a line
+
+    Greedy approach
+    Just fill the lines with words
+    till width is maximized
+    then proceed to the next line
+
+    But what we want is the
+    minimum when we do the sum of squares
+    for the available space remaining
+
+
+ */

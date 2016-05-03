@@ -41,12 +41,17 @@
 
 #Preparing for an interview
 
-[Quora](https://www.quora.com/How-can-one-be-well-prepared-to-answer-data-structure-algorithm-questions-in-interviews)
+[Interview Algorithm Prep](https://www.quora.com/How-can-one-be-well-prepared-to-answer-data-structure-algorithm-questions-in-interviews)
 
 [Quora](https://www.quora.com/What-is-the-correct-strategy-for-studying-algorithms-and-preparing-for-coding-interviews-simultaneously)
 
+[Common Interview Questions](https://www.themuse.com/advice/51-interview-questions-you-should-be-asking)
+
+[Interview Questions](https://www.themuse.com/advice/how-to-answer-the-31-most-common-interview-questions)
+
 Notes
 [Log N : Matt Garland](https://www.youtube.com/watch?v=kjDR1NBB9MU)
+
 [N Log N : Course Grinder](https://www.youtube.com/watch?v=VTcJVgOdaA4)
 
 #Strategy

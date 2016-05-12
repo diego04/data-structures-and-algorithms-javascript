@@ -1,3 +1,14 @@
+# JUST DO THIS
+
+[Convert this to javascript](http://interactivepython.org/runestone/static/pythonds/index.html)
+
+
+
+
+
+#Note
+Use Dasgupta / CLRS to read how to solve it. Try to avoid blogs
+
 #Tools
 
 [Online IDE](https://glot.io/new/javascript)
